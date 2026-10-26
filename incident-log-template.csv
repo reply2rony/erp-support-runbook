@@ -1,0 +1,3 @@
+IncidentID,DateReported,ReportedBy,System,IssueSummary,UsersAffected,Priority,ActionTaken,Status,ResolvedDate,FollowUpNeeded
+SAMPLE-001,2026-10-26,Sample User A,Sample ERP,Cannot sign in,1,Medium,Password reset per policy,Closed,2026-10-26,No
+SAMPLE-002,2026-10-27,Sample User B,Sample ERP,Stock figure looks wrong,3,High,Checked entry with manager approval,Closed,2026-10-28,Review data entry training
